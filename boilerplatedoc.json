@@ -1,0 +1,23 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "description": "Boilerplate api documentation",
+      "version": "1.0.0",
+      "title": "Boilerplate Doc",
+      "contact": {
+        "email": ""
+      }
+    },
+    "basePath": "/v1",
+    "tags": [
+      {
+        "name": "auth",
+        "description": "Everything about signup, sign in, password reset, email verification"
+      }
+    ],
+    "consumes": ["application/json"],
+    "produces": ["application/json"],
+    "paths": {},
+    "definitions":{}
+  }
+  
